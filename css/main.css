@@ -133,7 +133,7 @@ section {
   text-transform: uppercase;
 }
 .hero h1 {
-  postion: relative;
+  position: relative;
   left: -30px;
 }
 .hero h2 {
