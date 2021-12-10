@@ -146,7 +146,7 @@ section {
 }
 .hero p {
   letter-spacing: 2px;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 21px;
   margin: 0 0 10px;
 }
@@ -185,7 +185,7 @@ section {
   text-transform: uppercase;
   text-align: center;
 }
-.category-text div {
+.category-text > div {
   font-size: 16px;
   font-weight: 200;
   color: #faa541;
