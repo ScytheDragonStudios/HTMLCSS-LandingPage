@@ -114,7 +114,7 @@ section {
   color: #364147;
   font-size: 18px;
 }
-.account li {
+.account a {
   font-size: 14px;
 }
 .profile-pic {
